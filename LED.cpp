@@ -1,3 +1,7 @@
+/*
+* Author: Kwabena Amoako
+*/
+
 #include "LED.h"
 #include <Arduino.h>
 
